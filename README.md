@@ -6,3 +6,4 @@
   - [Mermaid](http://mermaid.js.org)
   - [PlantUML](https://plantuml.com)
   - [Nomnoml](https://nomnoml.com)
+  - [Graphviz](https://www.graphviz.org)
