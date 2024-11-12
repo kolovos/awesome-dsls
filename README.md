@@ -8,6 +8,7 @@
 - [XDL](https://croningroup.gitlab.io/chemputer/xdl/standard/index.html): Executable standard language for programming chemical synthesis, optimization, and both material and molecular discovery.
 - [AUTOSUITE](https://www.chemspeed.com/software-and-digitalization/autosuite/): Graphical modelling of chemical workflows.
 - [PREEvision](https://www.vector.com/in/en/products/products-a-z/software/preevision/): DSL for automotive sytems engineering.
+- [Structurizr](https://structurizr.com): DSL for software architectures.
 - DSLs for diagrams and charts
   - [Mermaid](http://mermaid.js.org)
   - [PlantUML](https://plantuml.com)
