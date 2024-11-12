@@ -7,6 +7,7 @@
 - [State Chart XML (SCXML)](https://commons.apache.org/proper/commons-scxml/index.html): W3C state machine notation for control abstraction.
 - [XDL](https://croningroup.gitlab.io/chemputer/xdl/standard/index.html): Executable standard language for programming chemical synthesis, optimization, and both material and molecular discovery.
 - [AUTOSUITE](https://www.chemspeed.com/software-and-digitalization/autosuite/): Graphical modelling of chemical workflows.
+- [PREEvision](https://www.vector.com/in/en/products/products-a-z/software/preevision/): DSL for automotive sytems engineering.
 - DSLs for diagrams and charts
   - [Mermaid](http://mermaid.js.org)
   - [PlantUML](https://plantuml.com)
