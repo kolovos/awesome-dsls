@@ -9,6 +9,7 @@
 - [AUTOSUITE](https://www.chemspeed.com/software-and-digitalization/autosuite/): Graphical modelling of chemical workflows.
 - [PREEvision](https://www.vector.com/in/en/products/products-a-z/software/preevision/): DSL for automotive sytems engineering.
 - [Structurizr](https://structurizr.com): DSL for software architectures.
+- [Bird](https://github.com/SWAT-engineering/bird): DSL for describing binary file formats.
 - DSLs for diagrams and charts
   - [Mermaid](http://mermaid.js.org)
   - [PlantUML](https://plantuml.com)
